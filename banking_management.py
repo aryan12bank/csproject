@@ -30,4 +30,4 @@ elif a==2:
       print("kindly visit to the bank for KYC and biometrics\n GO TO\n EMPLOYEE NAME:",EMP_N)
       print("The request for creating an account is succefully sent to the employee shown above")
     except ValueError:
-      print("invalid data is recorded kindly check again")
+      print("invalid data is recorded kindly check againnnnn")
